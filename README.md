@@ -80,7 +80,6 @@ If you are actively taking these courses on Coursera, please follow the Coursera
 🚀 Setup & Usage
 # Clone the repository
 git clone https://github.com/HadySallam/AI-journey.git
-cd AI-journey
 
 # Create and activate virtual environment
 python -m venv .venv
