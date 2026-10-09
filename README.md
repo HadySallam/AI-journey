@@ -59,3 +59,31 @@ Personal repository documenting my coursework, programming assignments, optional
   - RNNs, GRUs, LSTMs, Attention mechanisms, Transformer architectures.
 
 ---
+
+
+
+
+🛠️ Stack & Libraries
+Mathematics & Visualization: NumPy, SymPy, SciPy, Matplotlib, Seaborn
+
+Machine Learning & Deep Learning: Scikit-Learn, TensorFlow, Keras, PyTorch
+
+Tools: JupyterLab, VS Code, Git
+
+⚖️ Academic Integrity & Disclaimer
+The solutions and notes in this repository are published for personal reference, educational journaling, and archival purposes only.
+
+If you are actively taking these courses on Coursera, please follow the Coursera Honor Code. Attempt the derivations, exercises, and coding assignments yourself first—that is where real mastery happens!
+
+
+
+🚀 Setup & Usage
+# Clone the repository
+git clone https://github.com/HadySallam/AI-journey.git
+
+# Create and activate virtual environment
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+
+# Install essential dependencies
+pip install numpy sympy scipy matplotlib seaborn scikit-learn tensorflow jupyterlab
